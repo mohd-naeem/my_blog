@@ -1,6 +1,6 @@
 ---
 title: Who owns Domains
-date: 2024-05-07 00:37:00 +0600
+date: 2024-05-06 00:37:00 +0600
 categories: [Technology, Internet]
 tags: [tech,web,history]     # TAG names should always be lowercase
 ---
